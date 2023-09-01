@@ -1,0 +1,27 @@
+/* styles.css */
+
+body {
+    background-color: aqua;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tr, td, th {
+    border: 2px solid black;
+}
+
+th {
+    font-weight: bold;
+    color: blueviolet;
+}
+
+p {
+    font-family: verdana;
+    font-size: 150%;
+}
+
+h1 {
+    color: chartreuse;
+}
